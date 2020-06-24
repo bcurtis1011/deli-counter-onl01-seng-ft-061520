@@ -1,9 +1,21 @@
 katz_deli = []
 
 def line(katz_deli)
-  if katz_deli >= 1
-    puts "The line is currently: 1. Logan 2. Avi 3. Spencer"
-  else
+  els
     puts "The line is currently empty."
   end
+end
+
+
+
+
+
+
+
+
+
+
+
+X.each_with_index do |item, index|
+  puts "current_index: #{index}"
 end
