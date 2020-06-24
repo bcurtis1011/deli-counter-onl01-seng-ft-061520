@@ -8,7 +8,7 @@ end
 
 
 def take_number(katz_deli, name)
-  
+  katz_deli.push(name)
 end
 
 def now_serving
