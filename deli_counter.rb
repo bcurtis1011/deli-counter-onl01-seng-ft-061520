@@ -1,13 +1,14 @@
 katz_deli = []
 
 def line(katz_deli)
-  els
     puts "The line is currently empty."
-  end
 end
 
 
-
+def take_number(katz_deli, name)
+  x.each_with_index do |katz_deli, index|
+    puts "Welcome, #{name}. you are number #{index} in line."
+end
 
 
 
